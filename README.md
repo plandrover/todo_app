@@ -1,3 +1,3 @@
 # To-do app Flutter
 
-A productivity tool that allows users to kep track of important tasks.
+A productivity tool that allows users to keep track of important tasks.
